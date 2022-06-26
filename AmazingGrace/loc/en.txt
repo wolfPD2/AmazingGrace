@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_wolf" : "AmazingGrace",
+    "menu_jukebox_screen_wolf" : "AmazingGrace"
+}
